@@ -1,0 +1,5 @@
+# JetBrains IDEs (z. B. IntelliJ IDEA, PyCharm, WebStorm)
+.idea/
+
+# CMake Build-Ordner
+cmake-build-debug/
